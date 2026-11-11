@@ -44,4 +44,5 @@ dependencies {
 
     // Google Play Services Location
     implementation 'com.google.android.gms:play-services-location:21.3.0'
+    implementation 'androidx.webkit:webkit:1.12.1'
 }
