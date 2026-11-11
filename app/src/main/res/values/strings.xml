@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KRISHNA LR</string>
+    <string name="website_url">https://krishnalr.in/</string>
+    <string name="loading">KRISHNA LR लोड हो रहा है…</string>
+    <string name="offline_title">इंटरनेट कनेक्शन उपलब्ध नहीं है</string>
+    <string name="offline_message">कृपया अपना इंटरनेट कनेक्शन जाँचें और फिर कोशिश करें।</string>
+    <string name="retry">फिर से कोशिश करें</string>
+</resources>

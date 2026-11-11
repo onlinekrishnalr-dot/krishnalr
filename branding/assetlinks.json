@@ -1,0 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.comfy_youtiao_787e6f.twa",
+        "sha256_cert_fingerprints": ["0F:61:18:74:92:D6:6C:9A:72:50:D0:D1:67:18:17:65:F5:42:7A:AB:34:32:F0:D0:75:85:A7:D6:D4:FB:D7:AA"]
+      }
+    }]
+
